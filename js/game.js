@@ -7,11 +7,6 @@ window.onload = function () {
     var isPlaying = true;
 
     // DOM
-    // 純文本修改
-    //document.querySelector('#player1-current-score').textContent = dice;
-    //document.querySelector('#player' + currentPalyer + '-current-score').textContent = dice;
-
-    //document.querySelector('#player' + currentPalyer + '-current-score').textContent 
 
     document.querySelector('.dice').style.visibility = 'hidden';
     document.querySelector('.winner1').style.visibility = 'hidden';
